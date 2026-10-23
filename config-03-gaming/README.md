@@ -57,7 +57,7 @@
 6. Мощността и качеството на захранването.
 7. Поддръжката на QHD резолюция и необходимата честота на опресняване от монитора.
 
-**PCPartPicker:** [https://pcpartpicker.com/](https://pcpartpicker.com/)
+**PCPartPicker:** [[https://pcpartpicker.com/](https://pcpartpicker.com/)](https://pcpartpicker.com/user/Chara0493/saved/#view=nJX4Bm)
 
 След като всички компоненти бъдат избрани, трябва да се запази реалният permalink към конфигурацията и да се запише изчислената от PCPartPicker ориентировъчна мощност.
 
