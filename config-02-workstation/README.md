@@ -57,7 +57,7 @@
 6. Наличието на M.2 слот за SSD диска.
 7. Поддръжката на резолюцията 2560 × 1440 от видеокартата и монитора.
 
-**PCPartPicker:** [https://pcpartpicker.com/](https://pcpartpicker.com/)
+**PCPartPicker:** [[https://pcpartpicker.com/](https://pcpartpicker.com/)](https://pcpartpicker.com/user/Chara0493/saved/#view=9QnPgs)
 
 Линкът към конкретната конфигурация трябва да се добави след избиране на компонентите в PCPartPicker.
 
